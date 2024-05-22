@@ -1,0 +1,25 @@
+img {
+	height: 400px;
+	object-fit: cover;
+}
+body{
+    scroll-behavior: smooth;
+}
+.cat{
+    color: #13ADB7;
+    border: 1px solid #13ADB7;
+    border-radius: 20px;
+    padding: 10px 15px;
+    text-transform: capitalize;
+}
+.cat:hover{
+    color: white;
+    background-color: #13ADB7;
+}
+.blue-div{
+background-color: #13ADB7;}
+.carousel-caption a:hover{
+box-shadow: none;
+background-color:#13ADB7 !important;
+border-color: #13ADB7 !important;
+}

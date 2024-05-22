@@ -1,0 +1,11 @@
+.card-img-top{
+    height: 300px
+}
+.card-scaling{
+    width: 150px;
+    box-shadow: 10px 10px 180px rgb(202, 191, 186) inset
+}
+.card-scaling:hover {
+    transform: scale(1.2);
+    transition: all 2s;
+  }
